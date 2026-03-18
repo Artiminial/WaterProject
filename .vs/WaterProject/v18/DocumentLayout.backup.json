@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\",
+  "WorkspaceRootPath": "C:\\dev\\WaterProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|d:\\school work\\winter 2026 junior core\\413 enterprise\\waterproject\\backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|d:\\school work\\winter 2026 junior core\\413 enterprise\\waterproject\\backend\\waterproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|d:\\school work\\winter 2026 junior core\\413 enterprise\\waterproject\\backend\\waterproject.api\\data\\waterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\data\\waterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|d:\\school work\\winter 2026 junior core\\413 enterprise\\waterproject\\backend\\waterproject.api\\data\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\data\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|d:\\school work\\winter 2026 junior core\\413 enterprise\\waterproject\\backend\\waterproject.api\\controllers\\watercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|c:\\dev\\waterproject\\backend\\waterproject.api\\controllers\\watercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\controllers\\watercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|d:\\school work\\winter 2026 junior core\\413 enterprise\\waterproject\\backend\\waterproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|c:\\dev\\waterproject\\backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215099A0-ECC5-D47A-8CC1-484D302D864E}|backend\\WaterProject.API\\WaterProject.API.csproj|solutionrelative:backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,79 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "backend\\WaterProject.API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "backend\\WaterProject.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T01:15:24.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WaterController.cs",
-              "DocumentMoniker": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
-              "RelativeDocumentMoniker": "backend\\WaterProject.API\\Controllers\\WaterController.cs",
-              "ToolTip": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
-              "RelativeToolTip": "backend\\WaterProject.API\\Controllers\\WaterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\WaterProject.API\\Program.cs",
+              "ToolTip": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\Program.cs",
+              "RelativeToolTip": "backend\\WaterProject.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T17:46:56.151Z",
+              "WhenOpened": "2026-03-18T00:10:34.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Program.cs",
-              "RelativeDocumentMoniker": "backend\\WaterProject.API\\Program.cs",
-              "ToolTip": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Program.cs",
-              "RelativeToolTip": "backend\\WaterProject.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "WaterController.cs",
+              "DocumentMoniker": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
+              "RelativeDocumentMoniker": "backend\\WaterProject.API\\Controllers\\WaterController.cs",
+              "ToolTip": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
+              "RelativeToolTip": "backend\\WaterProject.API\\Controllers\\WaterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T06:13:23.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WaterDbContext.cs",
-              "DocumentMoniker": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Data\\WaterDbContext.cs",
-              "RelativeDocumentMoniker": "backend\\WaterProject.API\\Data\\WaterDbContext.cs",
-              "ToolTip": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Data\\WaterDbContext.cs",
-              "RelativeToolTip": "backend\\WaterProject.API\\Data\\WaterDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T06:06:08.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Project.cs",
-              "DocumentMoniker": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Data\\Project.cs",
-              "RelativeDocumentMoniker": "backend\\WaterProject.API\\Data\\Project.cs",
-              "ToolTip": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\Data\\Project.cs",
-              "RelativeToolTip": "backend\\WaterProject.API\\Data\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T05:58:58.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\appsettings.json",
-              "RelativeDocumentMoniker": "backend\\WaterProject.API\\appsettings.json",
-              "ToolTip": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\appsettings.json",
-              "RelativeToolTip": "backend\\WaterProject.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-15T06:15:40.486Z",
+              "WhenOpened": "2026-03-17T18:01:23.478Z",
               "EditorCaption": ""
             }
           ]

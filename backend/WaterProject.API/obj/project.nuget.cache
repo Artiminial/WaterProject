@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JpY1m7asLcI=",
+  "dgSpecHash": "B/URIVmSk+s=",
   "success": true,
-  "projectFilePath": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
+  "projectFilePath": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hector\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
     "C:\\Users\\Hector\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.5\\microsoft.data.sqlite.core.10.0.5.nupkg.sha512",

@@ -568,7 +568,7 @@
     "net10.0": [
       "Microsoft.AspNetCore.OpenApi >= 10.0.4",
       "Microsoft.EntityFrameworkCore >= 10.*",
-      "Microsoft.EntityFrameworkCore.sqlite >= 10.*"
+      "Microsoft.EntityFrameworkCore.Sqlite >= 10.*"
     ]
   },
   "packageFolders": {
@@ -578,11 +578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
+      "projectUniqueName": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
       "projectName": "WaterProject.API",
-      "projectPath": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
+      "projectPath": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
       "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-      "outputPath": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\obj\\",
+      "outputPath": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -629,7 +629,7 @@
             "target": "Package",
             "version": "[10.*, )"
           },
-          "Microsoft.EntityFrameworkCore.sqlite": {
+          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[10.*, )"
           }

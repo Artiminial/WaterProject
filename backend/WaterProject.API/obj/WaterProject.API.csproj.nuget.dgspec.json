@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj": {}
+    "C:\\dev\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj": {}
   },
   "projects": {
-    "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj": {
+    "C:\\dev\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
+        "projectUniqueName": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
         "projectName": "WaterProject.API",
-        "projectPath": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
+        "projectPath": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
         "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-        "outputPath": "D:\\school work\\Winter 2026 Junior core\\413 Enterprise\\WaterProject\\backend\\WaterProject.API\\obj\\",
+        "outputPath": "C:\\dev\\WaterProject\\backend\\WaterProject.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
